@@ -1,1 +1,1 @@
-docker run -p 8000:8000 scserver
+docker run -d --name scserver -p 8000:8000 scserver 

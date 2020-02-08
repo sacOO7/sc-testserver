@@ -1,0 +1,2 @@
+docker kill scserver
+docker container rm scserver
